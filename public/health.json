@@ -1,0 +1,41 @@
+[
+          {
+            "key": 1,
+            "img": "https://templates.hibootstrap.com/grin/default/assets/images/services/services-7.jpg",
+            "title": "General Dentistry",
+            "desc": "Tooth whitening can be a very effective way of lightening the natural colour of your teeth wtihout removing any of the tooth surface. it cannot make a complete colour change."
+          },
+          {
+            "key": 2,
+            "img":"https://templates.hibootstrap.com/grin/default/assets/images/services/services-8.jpg",
+            "title": "Cosmetic Destistry",
+            "desc": "Your dentist will need to access your teeth to make sure that you are suitable for the treatment.Once it has been agreed this procedure uselly takes about one hour."
+          },
+          {
+            "key": 3,
+            "img": "https://templates.hibootstrap.com/grin/default/assets/images/services/services-3.jpg",
+            "title": "Dental Impplants",
+            "desc": "In Europe and in some other countries whitening can only legally be carried out by  dentist. So tooth whitening by beauticians."
+          },
+          {
+            "key": 4,
+            "img": "https://templates.hibootstrap.com/grin/default/assets/images/services/services-4.jpg",
+            "title": "Orthodontics",
+            "desc": "Some people may find that their teeth become sensitve to cold during or after the treatment.others may have discomfort in the gums, a sore throat or white patches on the gum line."
+          },
+          {
+            "key": 5,
+            "img": "https://templates.hibootstrap.com/grin/default/assets/images/services/services-5.jpg",
+            "title": "Teeth Whitening",
+            "desc": "The total treatment can usually be done within three or there visits to the dentist. Your dental team will or three visits to the dentist."
+            
+          },
+          {
+            "key": 6,
+            "img": "https://templates.hibootstrap.com/grin/default/assets/images/services/services-6.jpg",
+            "title": "Teath Cleaning",
+            "desc": "There are several whitening toothpastes on the market. Although they do not affect the natural colour of your teeth,they sure effective at removing staining."
+            
+          }
+]
+          
